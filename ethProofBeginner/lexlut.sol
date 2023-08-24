@@ -17,7 +17,7 @@ pragma solidity 0.8.19;
 
 contract NewToken {
 
-                   // public variables indicated
+                   // public variables 
                   string public tokenName = 'lexluthor';
                   string public tokenAbbrv = 'LEC';
                   uint public totalSupply = 0;
