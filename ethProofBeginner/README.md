@@ -62,4 +62,4 @@ extra functionality is required to make sure one can only burn tokens they own
 
 ## Authors
 Wiredu Alexoa
-Marionick
+
