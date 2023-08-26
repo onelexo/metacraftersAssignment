@@ -1,6 +1,6 @@
 # LEXLUT
 
-A simple blockchain currency with functionality for minting and burning
+A simple blockchain currency with functionality for minting (creating tokens) and burning (destroying tokens)
 
 ## Description
 
@@ -24,7 +24,7 @@ select the appropriate solidity compiler (specified on the pragma line) and comp
 
 ### Installing
 
-following compilation you can deploy to any blockchain mainnet or testnet
+following compilation you can deploy to any blockchain mannet or testnet
 
 this will require that you connect your metamask account to the remix ide
 
